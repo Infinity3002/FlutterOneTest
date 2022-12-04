@@ -1,4 +1,5 @@
 {
   "welcome_title": "Welcome",
-  "welcome_subtitle": "Hello {}, how are you?"
+  "welcome_subtitle": "Hello {}, how are you?",
+  "welcome": "Hello {}, how are you!!!!!?"
 }
